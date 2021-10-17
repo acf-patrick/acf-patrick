@@ -1,5 +1,5 @@
-<p align="center"><font size="+5"><em>Hello!</em> 👋️</font></p>
-<h3 align="center"><code><b><em>Patrick</em></b> here 🇲🇬️😃️. Mathematics and computer science student.</code></h3>
+<h1 align="center"><em>Hello!</em> 👋️</h1>
+<h3 align="center"><b><em>Patrick</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
 <hr>
 <table align="center">
@@ -67,4 +67,4 @@
     </tr>
 </table>
 <hr>
-<h2 align="center"><code>Thanks for your visit. Have a good day! 😁️</code></h1>
+<h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
