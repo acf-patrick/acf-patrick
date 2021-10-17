@@ -1,11 +1,11 @@
-<h1 align="center">Hello! 👋️</h1>
-<h3 align="center"><b><em>Patrick</em></b> here 🇲🇬️😃️. Mathematics and computer science student.</h3>
-<h3 align="center">I'm self-taught programmer, doing my best to improve my skills.</h3>
+<p align="center"><font size="+5"><em>Hello!</em> 👋️</font></p>
+<p align="center"><font size="+1"><b><em>Patrick</em></b> here 🇲🇬️😃️. Mathematics and computer science student.</font></p>
+<p align="center"><font size="+1">I'm self-taught programmer, doing my best to improve my skills.</font></p>
 <hr>
 <table align="center">
     <tr>
         <td>
-            <h2>🔭️ <b>Interested in</b></h2>
+            <font size="+1">🔭️ <u><b>Interested in</b></u></font>
             <ul>
                 <li>🎮️ Game Development</li>
                 <li>🌐️ Web Development</li>
@@ -18,7 +18,7 @@
     <tr>
         <td><img src="assets/metalhead.gif" alt="Beavis and Butthead" width=367 height=193></td>
         <td>
-            <h2>✨️ <b>Outlets</b></h2>
+            <font size="+1">✨️ <u><b>Outlets</b></u></font>
             <ul>
                 <li>🎵️ Music. <em>Metalhead</em> 😎️🤘️</li>
                 <li>📺️ Anime and Manga</li>
@@ -30,9 +30,22 @@
 <hr>
 <table align="center">
     <tr>
-        <td rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
         <td>
-            <h2>🛠️ <b>Tools</b></h2>
+            <font size="+1">💻️ <u><b>Programming languages</b></u></font><br><br>
+            <div align="center">
+            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+            </div><div align="center">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
+            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
+            </div>
+        </td>
+        <td rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
+    </tr>
+    <tr>
+        <td>
+            <font size="+1">🛠️ <u><b>Tools</b></u></font><br><br>
             <div align="center">
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -52,19 +65,6 @@
             </div>
         </td>
     </tr>
-    <tr>
-        <td>
-            <h2>💻️ <b>Programming languages</b></h2>
-            <div align="center">
-            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-            </div><div align="center">
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
-            </div>
-        </td>
-    </tr>
 </table>
-
-<h3 align="center">Thank you for your visit. Have a good day! 😁️</h3>
+<hr>
+<p align="center"><font size="+2"><em>Thanks for your visit. Have a good day!</em> 😁️</font></p>
