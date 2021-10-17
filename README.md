@@ -5,7 +5,7 @@
 <table align="center">
     <tr>
         <td>
-            <font size="+1">🔭️ <u><b>Interested in</b></u></font>
+            <font size="+1">🔭️  <u><b>Interested in</b></u></font>
             <ul>
                 <li>🎮️ Game Development</li>
                 <li>🌐️ Web Development</li>
@@ -31,7 +31,7 @@
 <table align="center">
     <tr>
         <td>
-            <font size="+1">💻️ <u><b>Programming languages</b></u></font><br><br>
+            <font size="+1">💻️  <u><b>Programming languages</b></u></font><br><br>
             <div align="center">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
