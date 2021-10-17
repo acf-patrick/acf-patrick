@@ -1,6 +1,6 @@
 <p align="center"><font size="+5"><em>Hello!</em> 👋️</font></p>
-<p align="center"><font size="+1"><b><em>Patrick</em></b> here 🇲🇬️😃️. Mathematics and computer science student.</font></p>
-<p align="center"><font size="+1">I'm self-taught programmer, doing my best to improve my skills.</font></p>
+<h3 align="center"><code><b><em>Patrick</em></b> here 🇲🇬️😃️. Mathematics and computer science student.</code></h3>
+<h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
 <hr>
 <table align="center">
     <tr>
@@ -31,7 +31,7 @@
 <table align="center">
     <tr>
         <td>
-            <font size="+1">💻️  <u><b>Programming languages</b></u></font><br><br>
+            <h2>💻️  <b>Programming languages</b></h2><br>
             <div align="center">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -41,11 +41,11 @@
             <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
             </div>
         </td>
-        <td rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
+        <td rowspan="2" align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
     </tr>
     <tr>
         <td>
-            <font size="+1">🛠️ <u><b>Tools</b></u></font><br><br>
+            <h2>🛠️ <b>Tools</b></h2><br>
             <div align="center">
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -67,4 +67,4 @@
     </tr>
 </table>
 <hr>
-<p align="center"><font size="+2"><em>Thanks for your visit. Have a good day!</em> 😁️</font></p>
+<h2 align="center"><code>Thanks for your visit. Have a good day! 😁️</code></h1>
