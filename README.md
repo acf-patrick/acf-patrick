@@ -30,7 +30,7 @@
 <hr>
 <table align="center">
     <tr>
-        <td rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
+        <td rowspan="2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
         <td>
             <h2>🛠️ <b>Tools</b></h2>
             <div align="center">
