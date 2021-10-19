@@ -1,11 +1,11 @@
-<h1 align="center"><em>Hello!</em> 👋️</h1>
+<h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
 <h3 align="center"><b><em>Patrick</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
 <hr>
 <table align="center">
     <tr>
         <td>
-            <font size="+1">🔭️  <u><b>Interested in</b></u></font>
+            <h2>🔭️  <u><b>Interested in</b></u></h2>
             <ul>
                 <li>🎮️ Game Development</li>
                 <li>🌐️ Web Development</li>
@@ -18,7 +18,7 @@
     <tr>
         <td><img src="assets/metalhead.gif" alt="Beavis and Butthead" width=367 height=193></td>
         <td>
-            <font size="+1">✨️ <u><b>Outlets</b></u></font>
+            <h2>✨️ <u><b>Outlets</b></u></h2>
             <ul>
                 <li>🎵️ Music. <em>Metalhead</em> 😎️🤘️</li>
                 <li>📺️ Anime and Manga</li>
@@ -31,7 +31,7 @@
 <table align="center">
     <tr>
         <td>
-            <h2>💻️  <b>Programming languages</b></h2><br>
+            <h2 align="center">💻️  <b>Programming languages</b></h2><br>
             <div align="center">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -41,11 +41,8 @@
             <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
             </div>
         </td>
-        <td rowspan="2" align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
-    </tr>
-    <tr>
-        <td>
-            <h2>🛠️ <b>Tools</b></h2><br>
+        <td rowspan="2">
+            <h2 align="center">🛠️ <b>Tools</b></h2><br>
             <div align="center">
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -64,6 +61,9 @@
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
             </div>
         </td>
+    </tr>
+    <tr>
+        <td align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
     </tr>
 </table>
 <hr>
