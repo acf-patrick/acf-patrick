@@ -4,27 +4,21 @@
 <div><img src="./assets/api.gif" alt="api" /></div>
 <hr>
 <table align="center">
-    <tr>
-        <td>
-            <h2>🔭️  <u><b>Interested in</b></u></h2>
-            <ul>
-                <li>🎮️ Game Development</li>
-                <li>🌐️ Web Development</li>
-                <li>🔐️ Cryptology</li>
-                <li>📊️ Numerical analysis and algebra</li>
-            </ul>
-        </td><td>
-            <h2 align="center">🛠️ <b>Tools</b></h2><br>
-            <div align="center">
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs">
-            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express">
-            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-            <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
-            </div>
-        </td>
-    </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" alt="languages" />
+    </td>
+    <td>
+        <h2 align="center">🛠️ <b>Tools</b></h2><br>
+        <div align="center">
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+          <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest">
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
+        </div>
+    </td>
+  </tr>
 </table>
 <hr>
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
