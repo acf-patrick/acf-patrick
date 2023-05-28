@@ -1,7 +1,6 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
-<h3 align="center"><b><em>Patrick</em></b> here 🇲🇬️😃️. <code>Mathematics and computer science student.</code></h3>
-<h3 align="center"><code>I'm self-taught programmer, doing my best to improve my skills.</code></h3>
-<div><img src="./assets/api.gif" alt="api" /></div>
+<h3 align="center"><code> I am a Software Developer interested in Mathematics, Web and Game development.</code></h3>
+<!-- <div><img src="./assets/api.gif" alt="api" /></div> -->
 <hr>
 <table align="center">
   <tr>
