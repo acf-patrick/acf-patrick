@@ -1,5 +1,5 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
-<h3 align="center"><code> I am a Software Developer interested in Mathematics, Web and Game development.</code></h3>
+<h3 align="center">I am a Software Developer interested in Mathematics, Web and Game development.</h3>
 <!-- <div><img src="./assets/api.gif" alt="api" /></div> -->
 <hr>
 <table align="center">
@@ -20,4 +20,4 @@
   </tr>
 </table>
 <hr>
-<h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
+<h2 align="center">Thanks for your visit. Have a good day! 😁️</h1>
