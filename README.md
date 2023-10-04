@@ -20,4 +20,6 @@
   </tr>
 </table>
 <hr>
+
+[![An image of @acfpatrick's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/acfpatrick)](https://holopin.io/@acfpatrick)
 <h2 align="center">Thanks for your visit. Have a good day! 😁️</h1>
